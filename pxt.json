@@ -1,0 +1,9 @@
+{
+  "name": "motor-control-extension",
+  "version": "0.0.1",
+  "description": "Custom motor control extension for the smart car.",
+  "license": "MIT",
+  "dependencies": {
+    "pxt-core": "*"
+  }
+}
